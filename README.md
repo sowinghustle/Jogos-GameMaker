@@ -1,2 +1,2 @@
 # Jogos-GameMaker
-Repositório pra armazenamer todos meus jogos feitos na Engine de desenvolvimento de jogos 'GameMaker Studio 2'.
+Repositório pra armazenamer todos meus jogos feitos na Engine de desenvolvimento de jogos 'GameMaker Studio 2'. Esse repositório servirá para armazenar e publicar esses ditos jogos enquanto ainda estou em meu processo de estudo e aprendizado na ferramenta GameMaker, logo, a maioria dos projetos aqui publicados serão de menor escopo, fundamentados na ideia de me ajudar a entender e aprender as principais funções da engine e do processo de desenvolvimento de jogos.
