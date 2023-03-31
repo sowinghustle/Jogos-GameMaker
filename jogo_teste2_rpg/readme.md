@@ -5,8 +5,10 @@ A ferramente utilizada para criar os sprites foi o Software 'Aseprite'.
 
 **Controles:**
 
-`↑` e `↓` - Se mover pra Cima e Baixo
+`W` e `S` - Se mover pra Cima e Baixo
 
-`←` e `→` - Se mover para Esquerda e para Direita
+`A` e `D` - Se mover para Esquerda e para Direita
+
+`Mouse left-click` - Atacar
 
 `Alt + f4` - Fechar o jogo
